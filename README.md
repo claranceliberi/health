@@ -88,6 +88,12 @@ src/
 4. Toggle between line and bar chart views
 5. Hover over the chart to see detailed data points
 
+## Live Demo
+
+Visit [https://www.claranceliberi.tech/](https://www.claranceliberi.tech/) to see the live application.
+
+📺 Watch the [Video Demo on YouTube](https://youtu.be/wdzTz1DY_q0) to see the application in action.
+
 ## Development
 
 ### Available Scripts
